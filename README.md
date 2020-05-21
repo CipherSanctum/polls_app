@@ -1,7 +1,7 @@
 # Django 2.x poll app with F() for speed, and sessions
 
 ### PROGRAM CREATED BY:
-Kevin from PwnSauceDesigns.com
+Kevin from CyberHavenProgramming.com
 
 ### DESCRIPTION:
 This poll app is intended to be plugged into something else, such as a blog_app.
